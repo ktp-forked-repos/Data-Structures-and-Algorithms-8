@@ -28,18 +28,18 @@ You are required to construct five sorting algorithms.
 
 You can find the codes in [p1-implementation].
 
-[p1-description]: https://github.com/Tom-Pomelo/VE281/blob/master/Project1/Programming-Assignment-One-Description.pdf "project1"
+[p1-description]: ./Project1/Programming-Assignment-One-Description.pdf "project1"
 [bubble sort]: https://en.wikipedia.org/wiki/Bubble_sort
 [insertion sort]: https://en.wikipedia.org/wiki/Insertion_sort
 [selection sort]: https://en.wikipedia.org/wiki/Selection_sort
 [merge sort]: https://en.wikipedia.org/wiki/Merge_sort
 [quick sort in place]: https://en.wikipedia.org/wiki/Quicksort
 [quick sort extra]: https://en.wikipedia.org/wiki/Quicksort
-[p1-implementation]: https://github.com/Tom-Pomelo/VE281/blob/master/Project1/main.cpp
+[p1-implementation]: ./Project1/main.cpp
 ## <a name = "project2" />Project 2:
 The project description is in [p2-description].
 
-[p2-description]: https://github.com/Tom-Pomelo/VE281/blob/master/Project2/Programming-Assignment-Two-Description.pdf "project2"
+[p2-description]: ./Project2/Programming-Assignment-Two-Description.pdf "project2"
 
 You are required to construct two selection algorithms.
 
@@ -51,13 +51,13 @@ You are required to construct two selection algorithms.
 
 You can find the codes in [p2-implementation].
 
-[p2-implementation]: https://github.com/Tom-Pomelo/VE281/blob/master/Project2/project2/project2/main.cpp
+[p2-implementation]: ./Project2/project2/project2/main.cpp
 
 ## <a name = "project3" />Project 3:
 
 The project description is in [p3-description].
 
-[p3-description]: https://github.com/Tom-Pomelo/VE281/blob/master/Project3/Programming-Assignment-Three-Description.pdf
+[p3-description]: ./Project3/Programming-Assignment-Three-Description.pdf
 
 You are required to construct three priority queues and then solve a minimal-path-weight problem.
 
@@ -86,7 +86,7 @@ Some feasible implementation may contain:
 * [set]
 * [multi-set]
 
-[p4-description]: https://github.com/Tom-Pomelo/VE281/blob/master/Project4/Programming-Assignment-Four.pdf
+[p4-description]: ./Project4/Programming-Assignment-Four.pdf
 
 [vector]: https://en.wikipedia.org/wiki/Sequence_container_(C%2B%2B)#Vector
 [map]: https://en.wikipedia.org/wiki/Associative_array
@@ -96,13 +96,13 @@ Some feasible implementation may contain:
 
 You can find the codes in [p4-implementation].
 
-[p4-implementation]: https://github.com/Tom-Pomelo/VE281/blob/master/Project4/main.cpp
+[p4-implementation]: ./Project4/main.cpp
 
 ## <a name = "project5" />Project 5:
 
 The project description is in [p5-description].
 
-[p5-description]: https://github.com/Tom-Pomelo/VE281/blob/master/Project5/Programming-Assignment-Five-Description.pdf
+[p5-description]: ./Project5/Programming-Assignment-Five-Description.pdf
 
 You are required to solve the Directed-Acyclic-Graph-Decision, Shortest-Path and Minimal-Spanning-Tree problems. 
 
@@ -122,9 +122,18 @@ Some feasible algorithms could be
 
 You can find the codes in [p5-implementation].
 
-[p5-implementation]: https://github.com/Tom-Pomelo/VE281/blob/master/Project5/main.cpp
+[p5-implementation]: ./Project5/main.cpp
 
 ## <a name = "warning" />Warning:
 For students who are currently taking `Ve281`, please abide by the ***Honor Code*** in case of unnecessary troubles. 
+
+## Some Tips
+Recently, someone copied my codes and was caught by the Honor Council. According to this guy, a similarity of 89% does not necessarily mean academic dishonesty, which,I have to admit, is quite refreshing and impressive. Several kind reminders for this guy: Huaiwei could not be the right company for you. Consider Tencent next time, since you love copying others' codes a lot.
+
+By the way, it is really pathetic to get only 16/100 even by copying others' codes.
+
+For students taking this course, frankly speaking, it is far more dangerous to copy codes under this repo than <a href="https://github.com/TianzeWang">`Tianze Wang`</a>'s. The fact is, it could be safer to copy codes from `tc-imba`'s repo since he sends someone to HC, while I send someone to hell.
+
+Best luck.
 
 ### CopyRight All Rights Reserved
